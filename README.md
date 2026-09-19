@@ -48,11 +48,10 @@
 
 ## 🤝 Connect With Me
 
-* 📺 **YouTube:** [GreenTech Rada](https://www.youtube.com/@GreenTechRada)
-* 💼 **LinkedIn:** [https://www.linkedin.com/in/micheal-ojoawo/]
-* 💻 **GitHub:** [https://github.com/micheal15-0]
-* ✉️ **Email:** [ojoawo-mic@upf.ac.ma/michelmicheal15@gmail.com]
-
+* 📺 **YouTube:** [GreenTech Radar](https://www.youtube.com/@GreenTechRada)
+*   **LinkedIn :** *https://www.linkedin.com/in/micheal-ojoawo/*
+*   **GitHub :** *https://github.com/micheal15-0*
+*   **✉️ Email:** *ojoawo-mic@upf.ac.ma*
 ---
 
 <div align="center">
