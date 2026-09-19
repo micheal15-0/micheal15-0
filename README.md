@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi 👋, I'm Ojoawo Micheal
 
-<!--
-**micheal15-0/micheal15-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Aspiring Renewable Energy & Energy Systems Engineer**
 
-Here are some ideas to get you started:
+📊 **Data Scientist & ML Enthusiast**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌅 About Me
+
+* 🎓 Aspiring Renewable Energy & Energy Systems Engineer
+* 🐍 Learning Python and Data Science by building real-world projects
+* 🌍 Exploring the intersection of Machine Learning and Renewable Energy
+* 🚀 Sharing my learning journey and GreenTech insights on YouTube
+* 💡 Passionate about sustainable solutions and solving real-world energy problems
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+* Python
+* MATLAB
+
+**Currently Learning**
+* NumPy
+* Pandas
+* Matplotlib
+* Seaborn
+* Machine Learning
+* Data Science
+
+---
+
+## 📂 Featured Projects
+
+* ☀️ **Prediction of Global Horizontal Solar Irradiance** using Machine Learning and Deep Learning models
+
+---
+
+##  Goals
+
+* 🌍 Develop a strong foundation in applying Machine Learning to Renewable Energy systems.
+* 📹 Grow and consistently feed my YouTube channel: [GreenTech Rada](https://www.youtube.com/@GreenTechRada).
+* ⏳ Master Time-Series (Prophet, TensorFlow) and simulation tools for energy system optimization.
+
+---
+
+## 🤝 Connect With Me
+
+* 📺 **YouTube:** [GreenTech Rada](https://www.youtube.com/@GreenTechRada)
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/micheal-ojoawo/]
+* 💻 **GitHub:** [https://github.com/micheal15-0]
+* ✉️ **Email:** [ojoawo-mic@upf.ac.ma/michelmicheal15@gmail.com]
+
+---
+
+<div align="center">
+  ⭐ <i>Learning • Building • Growing Every Day</i> ⭐
+</div>
